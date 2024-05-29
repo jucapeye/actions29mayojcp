@@ -1,0 +1,4 @@
+name: jcpyactions
+on: [push]
+jobs: https://github.com/jucapeye?tab=repositories
+run-name: jc
